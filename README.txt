@@ -7,6 +7,4 @@ iTunes is required in order for the device to be recognized. The Microsoft Store
 credits:
 Apple Tech 752 of www.appletech752.com 
 
-Ceng De Ala from youtube.com/c/CengDealaWangit for hosting
-
 -imaxchine 
